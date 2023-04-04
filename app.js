@@ -36,7 +36,7 @@ app.post("/", function(req, res){
 
     const options = {
         method: "post",
-        auth: "Harsh1:6aa829c2006e19ef57158273039b3bd7-us21"
+        auth: "Harsh1:97c6cce20614e63e44394f374380df63-us21"
 
     }
 
@@ -68,7 +68,7 @@ app.listen(process.env.PORT || 3000, function(){
 })
 
 // API key 
-// 6aa829c2006e19ef57158273039b3bd7-us21
+// 97c6cce20614e63e44394f374380df63-us21
 
 // LIST ID 
 // b463bbece6
